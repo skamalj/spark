@@ -1,0 +1,6 @@
+.metals/**
+.vscode/**
+.ipynb_checkpoints/**
+.git/**
+databricks-datasets/**
+.../**
